@@ -195,6 +195,8 @@ p { margin: 0; }
 .contact-inner { text-align: center; }
 .contact-inner .eyebrow { color: var(--text-3); }
 .contact-actions { display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin-top: 30px; }
+.support-line { margin-top: 22px; color: var(--text-3); font-size: 0.92rem; }
+.support-line .link { margin-left: 6px; }
 
 /* Footer */
 .footer { border-top: 1px solid var(--border); padding-block: 26px; background: var(--bg); }
